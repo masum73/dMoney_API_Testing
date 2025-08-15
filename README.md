@@ -22,7 +22,7 @@
 * https://dmoney.roadtocareer.net/api-docs/user/#/
 * https://dmoney.roadtocareer.net/api-docs/transaction/#/
 
-## Integration Documentation
+## Postman Integration Documentation
 https://documenter.getpostman.com/view/12838371/2sB3BHk8yG
 
 ## Newman Report
